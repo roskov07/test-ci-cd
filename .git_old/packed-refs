@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+d86b48d32a8cd7dcb85fedf416abe8b31e4a258a refs/remotes/origin/dependabot/npm_and_yarn/browserslist-4.16.6
+fd7b9cfe95d1f216c2c60886e54b779c3f6a7868 refs/remotes/origin/dependabot/npm_and_yarn/dns-packet-1.3.4
+8e8e7fbdfe6be9d9d16a7bb48e7dbab781c4e024 refs/remotes/origin/dependabot/npm_and_yarn/hosted-git-info-2.8.9
+1096efa67d69b8cfe0ae3967743369db06567e05 refs/remotes/origin/dependabot/npm_and_yarn/lodash-4.17.21
+6872f71c9787a7c417138b89e7aa87068fc5726c refs/remotes/origin/dependabot/npm_and_yarn/path-parse-1.0.7
+ffcdebb1bb7704ab941d36c9f613716b7a981049 refs/remotes/origin/dependabot/npm_and_yarn/url-parse-1.5.3
+36021c174f28b0e6e930975f6188943cf5095c4c refs/remotes/origin/dependabot/npm_and_yarn/ws-6.2.2
+0e75b9c392ab7769e4a36355ee63740d8fe2114b refs/remotes/origin/gh-pages
+882c5372387c0df8fee3bf9983922c9f4211e035 refs/remotes/origin/master
